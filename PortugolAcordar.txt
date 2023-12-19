@@ -1,0 +1,6 @@
+1- Ao acordar, desligo o despertador;
+2- Após desligar o despertador, verifico se tenho alguma mensagem importante no celular;
+3- Após verificar mensagem no celular, eu vou tomar banho e escovar os dentes;
+4- Após tomar banho, passo o café;
+5- Após passar o café, eu pego o café e coloco numa xícara;
+6- Após colocar numa xícara, eu bebo o café;
